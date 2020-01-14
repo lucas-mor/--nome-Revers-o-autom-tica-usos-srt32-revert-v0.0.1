@@ -1,0 +1,1 @@
+# --nome-Revers-o-autom-tica-usos-srt32-revert-v0.0.1
